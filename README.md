@@ -61,7 +61,3 @@ Perfect for players looking for adult content and roleplay experience inside Min
 > Use at your own risk. Make sure you are of legal age in your country.
 
 ---
-
-Готово!  
-
-Хочешь сделать описание более откровенным, добавить конкретные версии (Fabric/Forge), или изменить что-то в Key Features?
